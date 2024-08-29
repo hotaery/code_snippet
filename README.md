@@ -1,0 +1,5 @@
+- [how to use vcpkg](./vcpkg_demo)
+- [how to use openssl](./openssl_demo/)
+- [how to use windows system API or Win32 API](./windows_demo/)
+- [how to write c++ in vscode](./vscode_demo)
+- [uncategorized](./util_demo)
